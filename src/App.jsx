@@ -46,7 +46,7 @@ function App() {
     return total;
   }
 
-  const zes = calculateTotal();
+  const Res = calculateTotal();
 
   return (
     <>
